@@ -1,50 +1,50 @@
-1. What is authentication and authorization ?
-2. what is list and tuple ?
-3. what is decortars and generators where will use this ?
-4. how do you handle logging in productional level?
-5. how do you secure the REST API ?
-6. what is global interpreter lock (GIL) ?
-7. difference between async vs sync ? 
-8. concurrency and parellisam in python ?
-9. multithreading and multiprocessing ?
-10. differnce between django and FastAPI
-11. what is middleware in fastapi ?
-12. what is depend_on in fastapi ?
-13. how to validate the data in fastapi or pydantic purpose ?
-14. uvicorn and gunicorn difference
-15. how to optimze the backend API
-16. how to optimize the API latency
-17. how to optimize the code what are changes you did?
-18. how to avoid if same api hits multiple time to the backend how do avoid it like create record?
-19. how to choose the database based on requirements
-20. what is the recent projects you have worked ?
-21. what is inheritance ?
-22. what is polymorphisam ?
-23. what is encapsulation ?
-24. what is abstraction ?
-25. what is shallow copy and deep copy?
-26. how they work in django endpoints ?
-27. what is django MVC and MVT?
-28. function view and class view example ?
-29. what is lambda?
-30. whats of ** args and *kwargs ?
-31. what is time complexity and space complexity ? 
-32. fastapi how to logs the api with payload and input?
-33. JWT and Oauth2.0 difference?
-34. how to do encrypt the password in your login workflow
-35. what is postgreSQL indexing and how to do that why we use this?
-36. what are joins are there in SQL?
-37. what is linear search and binary search ?
-38. explain the python memory management ?
-39. What is you role in recent projects ?
-40. how utilize the memory in List like use def function (value = [] and value = None)
-41. dict support keys with different datatype
-42. python shuffle function without using inbuild method
-43. SQL query with joins and Count of each Table 
-44. throtterling and rate limiting
-45. how to do avoid the data loss in your API
-46. 
-
-
-
-
+1.What are authentication and authorization?
+2.What is the difference between a list and a tuple?
+3.What are decorators and generators? Where are they used?
+4.How do you handle logging in a production environment?
+5.How do you secure a REST API?
+6.What is the Global Interpreter Lock (GIL)?
+7.What is the difference between synchronous and asynchronous execution?
+8.Explain concurrency and parallelism in Python.
+9.Explain multithreading vs multiprocessing in Python.
+10.What is the difference between Django and FastAPI?
+11.What is middleware in FastAPI?
+12.What is Depends() in FastAPI and how does dependency injection work?
+13.How do you validate data in FastAPI using Pydantic?
+14.What is the difference between Uvicorn and Gunicorn?
+15.How do you optimize backend APIs?
+16.How do you reduce API latency?
+17.How do you optimize Python code? What changes have you implemented in your projects?
+18.How do you prevent duplicate API calls from creating multiple records?
+19.How do you choose a database based on application requirements?
+20.What recent projects have you worked on?
+21.What is inheritance in OOP?
+22.What is polymorphism?
+23.What is encapsulation?
+24.What is abstraction?
+25.What is the difference between shallow copy and deep copy?
+26.How do Django endpoints work internally?
+27.What is the difference between Django’s MVC and MVT architecture?
+28.Explain function-based views vs class-based views in Django (with examples).
+29.What is a lambda function in Python?
+30.What are *args and **kwargs?
+31.What are time complexity and space complexity?
+32.How do you log API requests in FastAPI, including payloads and inputs?
+33.What is the difference between JWT and OAuth2.0?
+34.How do you encrypt passwords in your login workflow?
+35.What is PostgreSQL indexing? Why is it used and how do you create an index?
+36.What types of JOINs are available in SQL?
+37.What is linear search and binary search?
+38.Explain Python’s memory management model.
+39.What was your role in your recent projects?
+40.Why should we avoid using mutable default arguments like def func(value=[]):? What is the correct way?
+41.Can a Python dictionary support keys of different data types?
+42.How do you shuffle a list without using the built-in shuffle function?
+43.Write an SQL query using JOINs and returning the count from each table.
+44.What is throttling and rate limiting in APIs?
+45.How do you prevent data loss in your API?
+46.How do you manage the session token in application
+47.How will work for caching in redis
+48.what is difference between sort vs sorted?
+49. what is RAG and milvus database
+50. what is pandas did you worked on this
