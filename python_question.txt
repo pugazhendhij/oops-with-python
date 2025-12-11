@@ -1,0 +1,50 @@
+1. What is authentication and authorization ?
+2. what is list and tuple ?
+3. what is decortars and generators where will use this ?
+4. how do you handle logging in productional level?
+5. how do you secure the REST API ?
+6. what is global interpreter lock (GIL) ?
+7. difference between async vs sync ? 
+8. concurrency and parellisam in python ?
+9. multithreading and multiprocessing ?
+10. differnce between django and FastAPI
+11. what is middleware in fastapi ?
+12. what is depend_on in fastapi ?
+13. how to validate the data in fastapi or pydantic purpose ?
+14. uvicorn and gunicorn difference
+15. how to optimze the backend API
+16. how to optimize the API latency
+17. how to optimize the code what are changes you did?
+18. how to avoid if same api hits multiple time to the backend how do avoid it like create record?
+19. how to choose the database based on requirements
+20. what is the recent projects you have worked ?
+21. what is inheritance ?
+22. what is polymorphisam ?
+23. what is encapsulation ?
+24. what is abstraction ?
+25. what is shallow copy and deep copy?
+26. how they work in django endpoints ?
+27. what is django MVC and MVT?
+28. function view and class view example ?
+29. what is lambda?
+30. whats of ** args and *kwargs ?
+31. what is time complexity and space complexity ? 
+32. fastapi how to logs the api with payload and input?
+33. JWT and Oauth2.0 difference?
+34. how to do encrypt the password in your login workflow
+35. what is postgreSQL indexing and how to do that why we use this?
+36. what are joins are there in SQL?
+37. what is linear search and binary search ?
+38. explain the python memory management ?
+39. What is you role in recent projects ?
+40. how utilize the memory in List like use def function (value = [] and value = None)
+41. dict support keys with different datatype
+42. python shuffle function without using inbuild method
+43. SQL query with joins and Count of each Table 
+44. throtterling and rate limiting
+45. how to do avoid the data loss in your API
+46. 
+
+
+
+

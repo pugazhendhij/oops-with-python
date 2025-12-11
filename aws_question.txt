@@ -1,0 +1,6 @@
+1. what is lambda
+2. how to build secure Rest API in AWS
+3. what is cold start and warm start
+4. how do you manage the scaling the AWS server which are tool you were use 
+5. what is the purpose of AWS amplify
+6. 
